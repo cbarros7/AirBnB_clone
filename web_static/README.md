@@ -77,7 +77,7 @@ During this project, you will learn how to manipulate **HTML** and **CSS** langu
     4. [styles/6-filters.css](styles/6-filters.css): for the filters style
 
 * **7. Display results**
-  * [6-index.html](./6-index.html): Write an HTML page that displays a header, footer, a filters box with dropdown and results. Layout: (based on [6-index.html](./6-index.html))
+  * [7-index.html](./6-index.html): Write an HTML page that displays a header, footer, a filters box with dropdown and results. Layout: (based on [6-index.html](./6-index.html))
   * You must have 5 CSS files:
     1. [styles/4-common.css](styles/4-common.css): for global style (body and .container styles)
     2. [styles/3-header.css](styles/3-header.css): for header style
