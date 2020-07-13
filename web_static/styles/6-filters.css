@@ -33,6 +33,7 @@ h3 {
     font-size: 14px;
     font-weight: 400;
     justify-content: start;
+    display: flex;
 }
 
 .title-amenities .popover .ul-popover h4 {
@@ -55,6 +56,10 @@ h3 {
     font-weight: 400;
 }
 
+.popover {
+    background-color: #FAFAFA;
+}
+
 h4 {
     margin-top: 0px;
     margin-left: 45px;
@@ -62,7 +67,6 @@ h4 {
     font-size: 14px;
     font-weight: 400;
 }
-
 
 .filters {
     height: 70px;
